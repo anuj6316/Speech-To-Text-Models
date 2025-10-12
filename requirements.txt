@@ -2,3 +2,4 @@ pyaudio
 websockets
 gradio
 google-cloud-speech
+assemblyai
