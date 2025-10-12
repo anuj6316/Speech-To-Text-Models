@@ -6,3 +6,5 @@ venv/** */
 venv/
 
 .gradio
+
+eco-*.json
