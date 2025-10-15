@@ -1,0 +1,2 @@
+Requirement already satisfied: tamilinayavaani in ./venv/lib/python3.12/site-packages (0.14)
+Requirement already satisfied: open-tamil>=0.96 in ./venv/lib/python3.12/site-packages (from tamilinayavaani) (1.1)
